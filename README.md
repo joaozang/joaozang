@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm João Zang</h1>
 <h3 align="center">Brasilian Developer</h3>
 
