@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Zang</h1>
-<h3 align="center">Brasilian Developer</h3>
+<h3 align="center">Brazilian Developer</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
